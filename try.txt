@@ -1,3 +1,0 @@
-myfile contents
-
-extra line
