@@ -3,3 +3,5 @@ myfile contents
 extra line
 
 more lines
+
+reset added files
