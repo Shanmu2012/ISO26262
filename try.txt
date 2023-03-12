@@ -5,3 +5,4 @@ extra line
 rebasing example frm master master ...
 
 Rebase before conflict..
+Rebasing b4 conflit from branch
