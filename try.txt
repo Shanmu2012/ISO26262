@@ -2,4 +2,4 @@ myfile contents
 
 extra line
 
-rebasing example frm master
+rebasing example frm master master
