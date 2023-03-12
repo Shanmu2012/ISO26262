@@ -3,3 +3,5 @@ myfile contents
 extra line
 
 rebasing example frm master master ...
+
+Rebasing conflict
