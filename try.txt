@@ -4,4 +4,4 @@ extra line
 
 rebasing example frm master master ...
 
-Rebasing conflict
+Rebase before conflict
