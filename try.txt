@@ -12,5 +12,3 @@ additional changes from branch
 direct edit in github
 
 pull example
-
-edit frm local
